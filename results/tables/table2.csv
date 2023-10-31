@@ -1,4 +1,6 @@
 ,I,II,III,IV,V,VI,VII,VIII,IX,X
-All US counties input file versus all counties in a state input file,0.75,0.79,0.68,0.5,0.5,0.62,0.9,0.61,0.53,0.66
-All counties in a FEMA region versus counties in a state within the FEMA region input file,0.94,0.61,0.9,0.8,0.34,0.68,0.82,0.87,0.69,0.88
+pvalue_st_fema,3.110852523043064e-15,6.721460448047238e-07,1.154413661889564e-46,1.4333506736723366e-36,0.0001878939201002,3.941463490605444e-36,4.269832486503179e-27,3.549010733167883e-19,2.920728145632246e-09,1.1535069492874167e-11
+pvalue_st_us,,,,,,,,,,
+All US counties input file versus all counties in a state input file,,,,,,,,,,
+All counties in a FEMA region versus counties in a state within the FEMA region input file,0.9,0.58,0.89,0.8,0.36,0.68,0.8,0.85,0.69,0.82
 State used for comparison,"Composite of ME, NH, MA",NY,VA,GA,IL,TX,MO,SD,CA,ID
